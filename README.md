@@ -55,5 +55,3 @@
 > (Classic.)
 
 ---
-
-*P.S. If you're reading this, send snacks. Debugging makes me hungry 🍜*
