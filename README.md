@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Asmita Bhattacharya</h1>
+<h1 align="center">Hi 👋 Asmita here! </h1>
 
 <p align="center">
   <em>A student at IIT Bhilai • Currently blinking LEDs💡 and building robots that may or may not take over the world🤖</em>
